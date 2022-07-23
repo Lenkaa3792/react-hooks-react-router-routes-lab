@@ -1,4 +1,5 @@
 import "@testing-library/jest-dom";
+import Movies from "../components/Movies";
 import React from "react";
 import { render, screen } from "@testing-library/react";
 import { createMemoryHistory } from "history";
